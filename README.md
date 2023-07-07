@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/G74LKP9zsfLInmz3H6/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm Sayff mohammed</h1>
 <h3 align="center">IT student & software developer ,deep learning,UI designer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
